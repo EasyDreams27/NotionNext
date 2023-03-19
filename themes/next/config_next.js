@@ -1,7 +1,7 @@
 const CONFIG_NEXT = {
 
   HOME_BANNER: false, // 首页是否显示大图及标语 [true,false]
-  HOME_BANNER_Strings: ['你指尖跃动的电光,是我此生不灭的信仰', '君の指先で光る稲妻は僕の永遠の信念だ'], // 首页大图标语文字
+  HOME_BANNER_Strings: ['你指尖跃动的电光,是我此生不灭的信仰', '君の指先で跃动ずる电光,私の一生変らなぃ信仰である'], // 首页大图标语文字
 
   NAV_TYPE: 'normal', // ['fixed','autoCollapse','normal'] 分别是固定屏幕顶部并始终显示、固定屏幕顶部且滚动时隐藏，不固定屏幕顶部
 
