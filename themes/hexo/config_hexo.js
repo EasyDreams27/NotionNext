@@ -1,6 +1,6 @@
 const CONFIG_HEXO = {
   HOME_BANNER_ENABLE: true,
-  HOME_BANNER_GREETINGS: ['你指尖跃动的电光,是我此生不灭的信仰', '君の指先で光る稲妻は僕の永遠の信念だ'], // 首页大图标语文字
+  HOME_BANNER_GREETINGS: ['你指尖跃动的电光,是我此生不灭的信仰', '君の指先で跃动ずる电光,私の一生変らなぃ信仰である'], // 首页大图标语文字
 
   HOME_NAV_BUTTONS: true, // 首页是否显示分类大图标按钮
 
